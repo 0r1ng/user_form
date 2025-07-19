@@ -32,3 +32,16 @@ This is a simple PHP-based web application that allows users to submit their nam
        age INT NOT NULL,
        status TINYINT(1) DEFAULT 0
    );
+   ```
+
+### 📝 Form Page
+
+![Form](image/Screenshot%202025-07-19%20174548.png)
+
+### 📊 Table View
+
+![Table](image/Screenshot%202025-07-19%20174600.png)
+
+### 📊 XAMPP Control Panel
+
+![XAMPP](image/Screenshot%202025-07-19%20174536.png)
